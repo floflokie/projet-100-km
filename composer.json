@@ -14,7 +14,8 @@
         "laravel/framework": "^13.7",
         "laravel/tinker": "^3.0",
         "laravel/wayfinder": "^0.1.14",
-        "lomkit/laravel-rest-api": "^2.21"
+        "lomkit/laravel-rest-api": "^2.21",
+        "spatie/laravel-permission": "^7.4"
     },
     "require-dev": {
         "fakerphp/faker": "^1.24",
